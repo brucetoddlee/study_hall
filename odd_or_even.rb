@@ -1,4 +1,4 @@
-puts "Please enter a number"
+puts "Please enter a number"  
 num = gets.to_i
 
 if 
